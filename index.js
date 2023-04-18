@@ -101,4 +101,3 @@ app.listen(process.env.PORT || 4444, err => {
 
     console.log('Server started');
 });
-// 'mongodb+srv://admin:Pass123@cluster0.ojv9piu.mongodb.net/blog?retryWrites=true&w=majority'
